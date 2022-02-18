@@ -1,0 +1,20 @@
+h1{
+    color: rgb(238, 255, 0);
+    font-size: 45px;
+    background-color: chocolate;
+}
+h2{
+    color: rgb(30, 255, 0);
+    font-size: 30px;
+    background-color: crimson;
+}
+p{
+    color: rgb(42, 95, 165);
+    background-color: rgb(133, 189, 38);
+}
+ol{
+    background-color: darkcyan;
+}
+dl{
+    background-color: darkslateblue;
+}
